@@ -1,42 +1,42 @@
 - name: YouTube
-  url: http://www.youtube.com/PhlowMedia
+  url: http://www.youtube.com/duongkimngoc
   class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+  title: "DKN's video on YouTube"
 
 - name: Twitter
-  url: http://twitter.com/phlow
+  url: http://twitter.com/duongkimngoc
   class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+  title: "Follow DKN on Twitter"
 
 - name: Facebook
-  url: http://www.facebook.com/phlow.media
+  url: http://www.facebook.com/100000055114001
   class: icon-facebook
-  title: "Lass uns Freunde sein!"
-
-- name: Soundcloud
-  url: http://soundcloud.com/phlow
-  class: icon-soundcloud
-  title: "Sounds und Downloads und mehr"
+  title: "Follow DKN on Facebook"
 
 - name: GitHub
-  url: http://github.com/phlow
+  url: http://github.com/duongkimngoc
   class: icon-github
-  title: Code und mehr...
+  title: DKN's Github
 
 - name: Instagram
-  url: http://instagram.com/phlowmedia
+  url: http://instagram.com/duongkimngoc
   class: icon-instagram
-  title: "Bilder und Impressionen mit und ohne Filter..."
+  title: "Follow DKN on Instagram"
 
-- name: Pinterest
-  url: http://www.pinterest.com/phlowmedia/
-  class: icon-pinterest
-  title: "Bilder, Fotos, Illustrationen, Grafiken sammeln..."
+# - name: Soundcloud
+#   url: http://soundcloud.com/phlow
+#   class: icon-soundcloud
+#   title: "Sounds und Downloads und mehr"
 
-- name: Mixcloud
-  url: http://www.mixcloud.com/phlow/
-  class: icon-cloud
-  title: "Mixe, was sonst?"
+# - name: Pinterest
+#   url: http://www.pinterest.com/phlowmedia/
+#   class: icon-pinterest
+#   title: "Bilder, Fotos, Illustrationen, Grafiken sammeln..."
+
+# - name: Mixcloud
+#   url: http://www.mixcloud.com/phlow/
+#   class: icon-cloud
+#   title: "Mixe, was sonst?"
 
 # - name: Xing
 #   url: https://www.xing.com/profile/Moritzmo_Sauer
