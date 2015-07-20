@@ -1,6 +1,6 @@
-title:            Site Title
-description:      Describe your website here.
-disqus_shortname: hpstrtheme
+title:            DKN's Blog
+description:      Trust me! I'm a developer.
+disqus_shortname: duongkimngoc
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
@@ -9,21 +9,21 @@ url:
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  name:           Duong-Kim NGOC
+  avatar:         avatar.png
+  bio:            #"Trust me! I'm a developer."
+  email:          ngocdk@outlook.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
+  twitter: duongkimngoc
+  facebook: duong.kim.ngoc.dkn
+  github: duongkimngoc
   stackexchange:  
-  linkedin:       
-  instagram:      
+  linkedin: duongkimngoc
+  instagram: #duongkimngoc
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +yourid
+  google_plus:    #+DuongKimNgoc
 
 # Background image to be tiled on all pages
 background: 
@@ -35,7 +35,7 @@ google_verify:
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Asia/Ho_Chi_Minh
 future:      true
 highlighter: pygments
 markdown:    kramdown

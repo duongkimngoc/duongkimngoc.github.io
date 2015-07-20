@@ -67,76 +67,76 @@ svg:not(:root) {
   padding: 8px 20px;
   @include font-rem(14);
   background-color: $primary;
-  color: $white;
+  color: $black;
   border-width: 2px !important;
   border-style: solid !important;
   border-color: $primary;
   @include rounded(3px);
   &:visited {
-    color: $white;
+    color: $black;
   }
   &:hover {
-    background-color: $white;
+    background-color: $black;
     color: $primary;
   }
 }
 .btn-inverse {
-  background-color: $white;
+  background-color: $black;
   color: $primary;
-  border-color: $white;
+  border-color: $black;
   &:visited {
     color: $primary;
   }
   &:hover {
     background-color: $primary;
-    color: $white;
+    color: $black;
   }
 }
 .btn-success {
   background-color: $success;
-  color: $white;
+  color: $black;
   border-color: $success;
   &:visited {
-    color: $white;
+    color: $black;
   }
   &:hover {
-    background-color: $white;
+    background-color: $black;
     color: $success;
   }
 }
 .btn-warning {
   background-color: $warning;
-  color: $white;
+  color: $black;
   border-color: $warning;
   &:visited {
-    color: $white;
+    color: $black;
   }
   &:hover {
-    background-color: $white;
+    background-color: $black;
     color: $warning;
   }
 }
 .btn-danger {
   background-color: $danger;
-  color: $white;
+  color: $black;
   border-color: $danger;
   &:visited {
-    color: $white;
+    color: $black;
   }
   &:hover {
-    background-color: $white;
+    background-color: $black;
     color: $danger;
   }
 }
 .btn-info {
   background-color: $info;
-  color: $white;
+  color: $black;
   border-color: $info;
   &:visited {
-    color: $white;
+    color: $black;
   }
   &:hover {
-    background-color: $white;
+    background-color: $black;
     color: $info;
   }
 }
