@@ -1,10 +1,10 @@
 # Menu navigation links
 
-- title: Theme Setup
-  url: /theme-setup/
+# - title: Theme Setup
+#   url: /theme-setup/
 
-- title: 2011
-  url: /2011/
+# - title: 2011
+#   url: /2011/
   
-- title: External Link
-  url: http://www.google.com
+# - title: External Link
+#   url: http://www.google.com
