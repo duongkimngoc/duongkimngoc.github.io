@@ -15,9 +15,10 @@ comment: false
 `14:00 - 19/11/2015`
 
 Khi cô đọc được những dòng này thì có lẽ… cũng chẳng có chuyện gì xảy ra cả. =))
-Từ lúc nhận được đôi tất và bức thư em cũng nghĩ là `20/11` sẽ viết lại rồi. Nhưng vì chẳng biết viết gì nên em vẫn chưa viết gì. =)) Vậy nên là bây giờ, trong lúc đang ngồi xe 4 tiếng để lên Hà Nội, em sẽ cố nặn ra ít chữ xem sao.
 
-Thật ra thì em vừa ngủ được một giấc và bị gọi dậy vì đến nhà hàng để tạm nghỉ rồi. [...] đã lên xe, nhưng thôi chẳng viết nữa, bác ngồi cạnh là bố của thằng bạn em, chẳng may bác ấy thấy em viết lảm nhảm thế này chắc em bị xã hội xa lánh mất.
+Từ lúc nhận được đôi tất và bức thư em cũng nghĩ là `20/11` sẽ viết lại rồi. Nhưng vì chẳng biết viết gì nên em vẫn chưa viết gì. Vậy nên là bây giờ, trong lúc đang ngồi xe 4 tiếng để lên Hà Nội, em sẽ cố nặn ra ít chữ xem sao.
+
+Thật ra thì em vừa ngủ được một giấc và bị gọi dậy vì đến nhà hàng để tạm nghỉ rồi. [...] Đã lên xe, nhưng thôi chẳng viết nữa, bác ngồi cạnh là bố của thằng bạn em, chẳng may bác ấy thấy em viết lảm nhảm thế này chắc em bị xã hội xa lánh mất.
 
 Bác kia đã xuống để đón xe ra Nội Bài, cho nên đoạn văn này sẽ được tiếp tục. [...] còn đến đây là hết đoạn rồi vì em lại vừa ngủ tiếp.
 
@@ -42,10 +43,11 @@ Thế là cái dự định viết cái đống chữ này xong rồi mang đế
 `21/11/2015`
 
 Đã hẹn với Trang từ lần lên phỏng vấn EA là sẽ gặp cô vào `21/22` rồi nên chắc phải viết cho xong thôi.
-Nhưng cuối cùng lại tốn thời gian với mấy thằng bạn quá, 4 rưỡi, Trang nhắn tin đã tan, và vẫn chưa mua quà gì cho cô.
+Nhưng cuối cùng lại tốn thời gian với mấy thằng bạn quá, 4 rưỡi, Trang nhắn tin đã tan, mà em thì vẫn đang chat với bạn hỏi mua quà gì, chứ còn việc hoàn thành công trình chữ này là nhiệm vụ bất khả thi rồi.
 
+Đầu óc lười biếng của em lại vừa nghĩ ra một điều là `22/11` thì dễ nhớ hơn là `21/11`, lại một lý do có vẻ tốt nữa để lùi deadline.
 
-`22/11` thì dễ nhớ hơn là `21/11`, lại một lý do có vẻ tốt nữa để lùi deadline.
+Dealine mới: `22:11:15 ngày 22/11/2015`.
 
 ----------
 `22/11/2015`
@@ -68,7 +70,7 @@ Thời gian học với nhau chỉ có `26 * 1.5 = 39* tiếng, nhưng thời gi
 > 
 > Fact #2: cô nên ngửa cổ ít đi mà cúi xuống nhiều hơn.
 
-![](http://duongkimngoc.github.io/images/2011-3.jpg)
+![](http://duongkimngoc.github.io/images/2011-3.png)
 
 > **Thank you**
 > 
@@ -91,7 +93,7 @@ Thời gian học với nhau chỉ có `26 * 1.5 = 39* tiếng, nhưng thời gi
 
 ![](http://duongkimngoc.github.io/images/2011-2.jpg)
 
-Có thể bây giờ cô cũng đang muốn cầm cái ghế ném em, nhưng thôi 
+Có thể bây giờ cô cũng đang muốn cầm cái ghế ném em, nhưng thôi cũng kệ chứ biết làm sao được.
 
 #DKN
 
@@ -99,9 +101,11 @@ Có thể bây giờ cô cũng đang muốn cầm cái ghế ném em, nhưng th�
 
 **Ghi chú 2:** tất cả những chữ này sẽ tồn tại trong 24 giờ kể từ lúc cô bắt đầu đọc. Thực ra lúc đầu em định làm 1 nút để đọc xong ấn vào là biến mất sạch luôn nhưng do làm không dễ mà thời gian không còn nên thôi bỏ qua.
 
+**Ghi chú 3:** do viết nhiều thời điểm khác nhau nên nội dung, tâm trạng không được thống nhất lắm, lộn xộn, lảm nhảm, cô thông cảm, nhưng lỗi chính tả thì chắc là không có.
+
 
 ##P.S:
 
-Hôm qua em có bảo với cô là có 2 tin buồn, cô nói là nhớ kế hoạch B, nhưng hình như cô không nhớ là công việc này làm ở Tokyo. Em vẫn chưa ký offer letter, vẫn còn nhiều việc gia đình để suy nghĩ, vẫn còn những khả năng em không đi, và cần một thời gian tới nữa thì em mới biết được chính xác hơn. Nhưng em nghĩ là sẽ sửa lại *Start Date* là *March 1st, 2016* và nộp lại cho người ta trong ngày mai, vì dù sao cứ ký không làm cũng chẳng mất gì. Từ giờ đến Tết có lẽ sẽ có rất nhiều việc cần làm, dù có đặt chân sang đất Nhật cũng chưa chắc đã được ở đó quá vài tháng. Hôm qua em có nói là sinh nhật cô *chắc chắn* em không gặp cô, dù *chắc chắn* thì không đúng lắm, nhưng khả năng cao là tháng 5 em không còn ở VN nữa, nếu cô muốn có quà gì, thì cứ nghĩ đi, từ giờ đến Tết em sẽ tặng trước.
+Hôm qua em có bảo với cô là có 2 tin buồn, cô nói là nhớ kế hoạch B, nhưng hình như cô không nhớ là công việc này làm ở Tokyo. Em vẫn chưa ký offer letter, vẫn còn nhiều việc gia đình để suy nghĩ, vẫn còn những khả năng em không đi, và cần một thời gian tới nữa thì em mới biết được chính xác hơn. Nhưng em nghĩ là sẽ sửa lại *Start Date* là *March 1st, 2016* và nộp lại cho người ta trong ngày mai, vì dù sao cứ ký không làm cũng chẳng mất gì. Từ giờ đến Tết có lẽ sẽ có rất nhiều việc cần làm, dù có đặt chân sang đất Nhật cũng chưa chắc đã được ở đó quá vài tháng. Hôm qua em có nói là sinh nhật cô *chắc chắn* em không gặp cô, dù *chắc chắn* thì không đúng lắm, nhưng khả năng cao là tháng 5 em không còn ở VN nữa, nếu cô muốn có quà gì, thì cứ nghĩ đi, từ giờ đến Tết em sẽ tặng trước. À cái ảnh này cô tuyệt đối không được cho ai khác thấy đâu đấy.
 
 ![](http://duongkimngoc.github.io/images/2011-4.jpg)
