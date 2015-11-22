@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Thank you
+title: Thank you!
 description: "22-11-2015"
 image:
   feature: 2011-1.jpg
@@ -45,10 +45,33 @@ Nói chung là bây giờ mới đến phần chính.
 
 ###F.A.Q:
 ***Vì sao em lại viết cho cô?***
+
 Vì cô là một **giáo viên** đặc biệt, cô là cô giáo thứ 2 tặng quà cho em, khá trùng hợp khi cả 2 đều dạy ngoại ngữ. Không biết là ít nữa học tiếng Nhật em có gặp thêm giáo viên thứ 3 như vậy không  :)). Đã lâu rồi mới có cái cảm giác mình được coi trọng trong một lớp học nào đó, vì 3 năm cấp Ba + 4 năm ĐH em chỉ luôn ở tầm giữa giữa. **Thank you!**
-Vì cô là một **người bạn** đặc biệt, chưa có ai mà em phải gửi yêu cầu kết bạn lần thứ 2, và 3 lần như cô thì chắc không có lần thứ 2 đâu. Đấy cũng chính là lý do mà cô đáng bị trừng phạt qua vụ điểm Toeic, he he. Còn lý do gửi tại sao lại gửi yêu cầu kết bạn tới 3 lần là: lần 1 thì _vì cô đã đối thoại với em > 200 câu_, thế thôi, không có lý do gì khác, nên mấy lần cô hỏi em cũng rất khó trả lời; lần 2 thì vì lần 1 chưa được chấp nhận, bực mình gửi lại; lần 3 là vì sau khi ngồi nghe nhạc với cô, em nghĩ đã đủ điều kiện cho vào *inner circle*. Và lần đó nhận được quà nhưng em chưa hề cảm ơn cô cẩn thận. Nếu là người khác sẽ tặng lại quà cho cô vào 20/10 là quá hợp lý, nhưng vì người khác làm thế nên em lại không thích làm thế nữa =)). **Thank you!**
 
+Vì cô là một **người bạn** đặc biệt, chưa có ai mà em phải gửi yêu cầu kết bạn lần thứ 2, và 3 lần như cô thì chắc không có lần thứ 2 đâu. Đấy cũng chính là lý do mà cô đáng bị *trừng phạt* qua vụ điểm Toeic, he he. Còn lý do gửi tại sao lại gửi yêu cầu kết bạn tới 3 lần là: lần 1 thì _vì cô đã đối thoại với em > 200 câu_, thế thôi, không có lý do gì khác, nên mấy lần cô hỏi em cũng rất khó trả lời; lần 2 thì vì lần 1 chưa được chấp nhận, bực mình gửi lại; lần 3 là vì sau khi ngồi nghe nhạc với cô, em nghĩ đã đủ điều kiện cho vào *inner circle*. Và lần đó nhận được quà nhưng em chưa hề cảm ơn cô cẩn thận. Nếu là người khác chắc sẽ tặng lại quà cho cô vào 20/10 là quá hợp lý, nhưng vì người khác sẽ làm thế nên em lại không thích làm thế nữa =)). **Thank you!**
 
+### Thank you
+- Cảm ơn cô vì đã nhận dạy lớp Pro-114, nếu không thì giờ có khi em đang cảm ơn cô khác rồi.
+- Cảm ơn cô đã cho em sang lớp Toeic B.
+- Cảm ơn cô đãi em bát phở.
+- Cảm ơn cô tặng em 2 đôi tất, 1 đôi thì xé giá, 1 đôi thì để lại cho đẹp.
+- Cảm ơn cô cho em vé xem nhạc.
+- Cảm ơn cô dành thời gian gõ bàn phím để viết thư cũng như chat với em.
+- Cảm ơn cô đã sửa CV, cover letter cho em.
+ 
+### Sorry
+- Xin lỗi cô vì nhiều lúc làm cô buồn.
+- Xin lỗi cô vì thỉnh thoảng trêu cô.
+- Xin lỗi cô vì phải làm bạn với người giống trong ảnh dưới.
+- Xin lỗi cô vì làm cô vui.
+
+#### ảnh thường
+![](http://duongkimngoc.github.io/images/2011-2.jpg)
+
+#### figure
+<figure>
+	<img src="http://duongkimngoc.github.io/images/2011-2.jpg" alt="">
+</figure>
 
 
 Có thể cô thắc mắc là làm cái đồng hồ đếm ngược để làm gì, thì câu trả lời là _làm cho nó vui thôi_.
