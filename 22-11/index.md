@@ -60,8 +60,6 @@ Vì cô là một **giáo viên** đặc biệt, cô là cô giáo thứ 2 tặn
 
 Vì cô là một **người bạn** đặc biệt, chưa có ai mà em phải gửi yêu cầu kết bạn lần thứ 2, và 3 lần như cô thì chắc không có lần thứ 2 đâu. Đấy cũng chính là lý do mà cô đáng bị *trừng phạt* qua vụ điểm Toeic, he he. Còn lý do gửi tại sao lại gửi yêu cầu kết bạn tới 3 lần là: lần 1 thì _vì cô đã đối thoại với em > 200 câu_, thế thôi, không có lý do gì khác, nên mấy lần cô hỏi em cũng rất khó trả lời; lần 2 thì vì lần 1 chưa được chấp nhận, bực mình gửi lại; lần 3 là vì sau khi ngồi nghe nhạc với cô, em nghĩ đã đủ điều kiện cho vào *inner circle*. Và lần đó nhận được quà nhưng em chưa hề cảm ơn cô cẩn thận. Nếu là người khác chắc sẽ tặng lại quà cho cô vào 20/10 là quá hợp lý, nhưng vì người khác sẽ làm thế nên em lại không thích làm thế nữa =)). **Thank you!**
 
-Giờ không biết viết gì nữa rồi =)), đành lấy thư của cô ra nhại lại vậy.
-
 Thời gian học với nhau chỉ có `26 * 1.5 = 39* tiếng, nhưng thời gian em nói tiếng Anh với cô có lẽ gấp nhiều lần thời gian em nói trong hơn 20 năm trước đó, có thể với nhiều người một khoá học ngắn như vậy không đem lại được nhiều điều, nhưng em thấy tự tin lên rất nhiều sau 2 tháng. **Thank you!** 
 
 Ấn tượng của em về cô là sự *cheerful* hiếm có, và quả thật là như vậy, không chỉ *cheerful* mà còn rất hay bị *high* =)). Ngoài ra thì tặng cô thêm 1 từ là *lovely*. Nhân tiện khuyến mại thêm cho cô 2 cái này:
