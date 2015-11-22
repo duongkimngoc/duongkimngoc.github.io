@@ -94,6 +94,8 @@ Thời gian học với nhau chỉ có `26 * 1.5 = 39` tiếng, nhưng thời gi
 Có thể bây giờ cô cũng đang muốn cầm cái ghế ném em, nhưng thôi cũng kệ chứ biết làm sao được.
 
 #DKN
+----------
+
 
 **Ghi chú 1:** những gì em viết trên kia có 1 phần là sự thật, phần còn lại là hư cấu, còn sự thật ấy to hay nhỏ, chỗ nào thật chỗ nào hư cấu thì cũng tuỳ suy nghĩ của từng người.
 
@@ -101,7 +103,7 @@ Có thể bây giờ cô cũng đang muốn cầm cái ghế ném em, nhưng th�
 
 **Ghi chú 3:** do viết nhiều thời điểm khác nhau nên nội dung, tâm trạng không được thống nhất lắm, lộn xộn, lảm nhảm, cô thông cảm, nhưng lỗi chính tả thì chắc là không có.
 
-
+----------
 ##P.S:
 
 Hôm qua em có bảo với cô là có 2 tin buồn, cô nói là nhớ kế hoạch B, nhưng hình như cô không nhớ là công việc này làm ở Tokyo. Em vẫn chưa ký offer letter, vẫn còn nhiều việc gia đình để suy nghĩ, vẫn còn những khả năng em không đi, và cần một thời gian tới nữa thì em mới biết được chính xác hơn. Nhưng em nghĩ là sẽ sửa lại *Start Date* là *March 1st, 2016* và nộp lại cho người ta trong ngày mai, vì dù sao cứ ký không làm cũng chẳng mất gì. Từ giờ đến Tết có lẽ sẽ có rất nhiều việc cần làm, dù có đặt chân sang đất Nhật cũng chưa chắc đã được ở đó quá vài tháng. Hôm qua em có nói là sinh nhật cô *chắc chắn* em không gặp cô, dù *chắc chắn* thì không đúng lắm, nhưng khả năng cao là tháng 5 em không còn ở VN nữa, nếu cô muốn có quà gì, thì cứ nghĩ đi, từ giờ đến Tết em sẽ tặng trước. À cái ảnh này cô tuyệt đối không được cho ai khác thấy đâu đấy.
